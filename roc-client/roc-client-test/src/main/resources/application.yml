@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: roc-client-test
+
+server:
+  port: 8102
+
+
